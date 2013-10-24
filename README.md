@@ -59,7 +59,9 @@
 
 如果你需要对你的文件和文件夹进行排序,你可以为他们添加数字和下划线前缀, 例如: `/docs/01_Hello_World.md` 和 `/docs/05_Features.md` 这将会在*Features*之前列出 *Hello World* 从而覆盖了默认的字母数字排序顺序. 这些数字将会从导航和urls中剥离出去,不会显示.
 
-## 着陆页(译者注:[Landing page](http://article.yeeyan.org/view/nia/66096))有时被称为首要捕获用户页,就是当潜在用户点击广告或者搜索引擎搜索结果页后显示给用户的网页)
+## 着陆页
+
+(译者注:[Landing page](http://article.yeeyan.org/view/nia/66096))有时被称为首要捕获用户页,就是当潜在用户点击广告或者搜索引擎搜索结果页后显示给用户的网页)
 
 如果你希望为你的项目创建一个漂亮的着陆页,只需要简单的创建一个`index.md` 文件在你的文档根目录`/docs` 中. 该文件将会被用于创建着陆页. 你还可以通过配置文件添加一个品牌口号和图片到该页面,配置如下:
 
@@ -225,7 +227,8 @@
 如果你的服务器没有在php.ini中设置默认时区,文档在获取最后修改日期时间时会返回错误. 修改该错误,需要在配置文件中指定时区. 有效的设置选项参考PHP手册 [PHP Manual](http://php.net/manual/en/timezones.php).
 
 ```json
-{"timezone": "America/Los_Angeles"
+{
+	"timezone": "America/Los_Angeles"
 }
 ```
 
@@ -255,7 +258,7 @@ Grunt.js将会利用内置的PHP 5.4 web服务器为你构建本地的文档. �
 * 一个rewrite配置,为了是urls更简洁,取消index.php.
 * 如果使用自定义样式,需要一个为处理less文件的mime类型的处理器.
 
-### 整洁 URLs
+### 整理 URLs
 
 `web.config` 文件需要在`<system.webServer>`之下一个入口名为`<rewrite>`  :
 
@@ -278,7 +281,7 @@ Grunt.js将会利用内置的PHP 5.4 web服务器为你构建本地的文档. �
 </configuration>
 ```
 
-To use clean URLs on IIS 6, you will need to use a custom URL rewrite module, such as [URL Rewriter](http://urlrewriter.net/).
+在IIS6上使用整理URLs,你需要使用自定义的URL重写规则,例如[URL Rewriter](http://urlrewriter.net/).
 
 ### Less Mime Type
 
