@@ -2,7 +2,7 @@
 
 ## Features
 
-* 100% Mobile Responsive
+* 100% Mobile Responsive 
 * Supports GitHub Flavored Markdown
 * Auto created homepage/landing page
 * Auto Syntax Highlighting

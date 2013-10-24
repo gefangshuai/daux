@@ -197,7 +197,7 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333333;
@@ -800,7 +800,7 @@ address {
 code,
 pre {
   padding: 0 3px 2px;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  ffont-family: Monaco, Menlo, Consolas, "Courier New", "Microsoft Yahei", monospace;
   font-size: 12px;
   color: #333333;
   -webkit-border-radius: 3px;
@@ -1204,7 +1204,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
 }
 label {
   display: block;
@@ -3524,7 +3524,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-search .search-query {
   margin-bottom: 0;
   padding: 4px 14px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
@@ -6258,19 +6258,19 @@ button.close {
 Base CSS
 ============================================================================================== */
 .roboto-slab.light {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 100;
 }
 .roboto-slab.book {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 300;
 }
 .roboto-slab.regular {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 400;
 }
 .roboto-slab.bold {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 700;
 }
 h1,
@@ -6279,7 +6279,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 300;
 }
 pre {
@@ -6307,7 +6307,7 @@ Homepage
   }
 }
 .homepage-hero .text-center {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 700;
   margin: 10px 0px;
 }
@@ -6319,7 +6319,7 @@ Homepage
   background-color: #a0d55d;
 }
 .hero-buttons.container-fluid .btn-hero.btn {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 700;
   padding: 20px 30px;
   background-image: none;
@@ -6370,7 +6370,7 @@ Homepage
   padding: 40px 0px;
 }
 .homepage-content.container-fluid .lead {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 400;
 }
 .homepage-content.container-fluid ul,
@@ -6422,7 +6422,7 @@ Homepage
   list-style: none;
 }
 .homepage-footer.container-fluid .footer-nav li a {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 32px;
@@ -6637,7 +6637,7 @@ code {
 .navbar .navbar-inner .brand {
   color: #8acc37;
   text-shadow: none;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 700;
 }
 .navbar .navbar-inner .navbar-text {
@@ -6674,7 +6674,7 @@ code {
 .nav.nav-list li a {
   margin: 0px;
   padding: 6px 15px;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 400;
   color: #000000;
   font-size: 15px;
@@ -6697,7 +6697,7 @@ code {
   margin-left: 15px;
 }
 .nav.nav-list li ul li a {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 20px;
@@ -6987,7 +6987,7 @@ table tr td:last-child {
 }
 .well.well-sidebar a {
   font-size: 13px;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', "Microsoft Yahei", serif;
   font-weight: 400;
   color: #8acc37;
   line-height: 28px;

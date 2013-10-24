@@ -1,26 +1,26 @@
 <p class="lead">
-	<strong>Daux.io</strong> is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+	<strong>Daux.io</strong> 是一个文档生成器,可以帮助用户快速生成漂亮的项目文档，此外，用户还可以通过简单的文件结构和Markdown文件来创建自定义格式的文档。
 </p>
 
 <hr/>
-<h3>Features</h3>
+<h3>产品特征</h3>
 <hr/>
 
 <img src="img/app-thumbs.png" alt="alt text" class="pull-right" style="margin-bottom:20px;">
 
-* 100% Mobile Responsive
-* Supports GitHub Flavored Markdown
-* Auto created homepage/landing page
-* Auto Syntax Highlighting
-* Auto Generated Navigation
-* 4 Built-In Themes or roll your own
-* Functional, Flat Design Style
-* Shareable/Linkable SEO Friendly URLs
-* Built On Bootstrap
-* No Build Step
-* Git/SVN Friendly
-* Google Analytics
-* Optional code float layout
+* 100%移动响应
+* 支持GitHub Flavored Markdown
+* 自动创建主页/登陆页
+* 自动语法提示
+* 自动生成导航
+* 4款内置主题并支持自定义主题
+* 功能、扁平化设计
+* 共享/可链接的SEO友好性URL
+* 基于Bootstrap构建
+* 无需设置步骤
+* 友好的Git/SVN
+* 支持Google统计以及Piwik统计
+* 可选的代码浮动布局
 
 <div class="clear"></div>
 <hr/>
